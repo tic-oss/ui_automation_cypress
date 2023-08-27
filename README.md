@@ -7,5 +7,5 @@ Node.js: Cypress is built on Node.js, so you need to install it first. You can d
 Once the installation is done,
 
 Open the project in cmd /terminal
--> run the command : npx cypress open
+-> run the command : **npx cypress open**
 All the test cases, will be open. click on any test case to run
